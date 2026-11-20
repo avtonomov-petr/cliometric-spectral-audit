@@ -1,3 +1,3 @@
-Полигон,Размерность (N x P),Энергия моды 1,PR(u1) время,PR(v1) объекты,PR(u2) L_sym,Главный диагноз аудита
-Maddison 1820–1950 (ВВП),131 x 12,89.6%,0.485,0.998,0.348,Маскировка трендом + ложный перелом 1891 г. из-за Перу (LOO p=0.65)
-Allen–Unger 1650–1800 (Пшеница),151 x 25,44.7%,0.155,0.768,0.585,Захват моды шоком 1795–1800 гг. + вложенные дубли (England/Tuscany)
+Benchmark,Dimensions (N x P),Mode 1 Energy,PR(u1) Temporal,PR(v1) Spatial,PR(u2) L_sym,Primary Audit Diagnosis
+Maddison 1820–1950 (GDP per capita),131 x 12,89.6%,0.485,0.998,0.348,Secular trend masking + spurious 1891 shift driven by Peru (LOO p=0.65)
+Allen–Unger 1650–1800 (Wheat prices),151 x 25,44.7%,0.155,0.768,0.585,Mode capture by 1795–1800 spike + nested regional duplicates (England/Tuscany)
